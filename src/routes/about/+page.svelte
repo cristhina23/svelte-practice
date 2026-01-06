@@ -1,1 +1,0 @@
-<h1 class="text-red-500 font-extrabold">About Us</h1>
